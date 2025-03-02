@@ -27,6 +27,8 @@
 		21ED1F602D69C85E0012D6F6 /* RootViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21ED1F5F2D69C85E0012D6F6 /* RootViewController.swift */; };
 		21ED1F622D69CBCD0012D6F6 /* RootView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21ED1F612D69CBCD0012D6F6 /* RootView.swift */; };
 		21ED1F652D69D0340012D6F6 /* ReviewsScreenFactory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 21ED1F642D69D0340012D6F6 /* ReviewsScreenFactory.swift */; };
+		A5CE96172D6D23D800D177C1 /* AvatarLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5CE96162D6D23CE00D177C1 /* AvatarLoader.swift */; };
+		A5CE96192D6D3C0F00D177C1 /* ImageCacheManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = A5CE96182D6D3BFB00D177C1 /* ImageCacheManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -51,6 +53,8 @@
 		21ED1F5F2D69C85E0012D6F6 /* RootViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootViewController.swift; sourceTree = "<group>"; };
 		21ED1F612D69CBCD0012D6F6 /* RootView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RootView.swift; sourceTree = "<group>"; };
 		21ED1F642D69D0340012D6F6 /* ReviewsScreenFactory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReviewsScreenFactory.swift; sourceTree = "<group>"; };
+		A5CE96162D6D23CE00D177C1 /* AvatarLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AvatarLoader.swift; sourceTree = "<group>"; };
+		A5CE96182D6D3BFB00D177C1 /* ImageCacheManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageCacheManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -156,6 +160,8 @@
 				21B82E332D47B0AA0085DAA2 /* ReviewsViewModel.swift */,
 				21B82E352D47B0D80085DAA2 /* ReviewsProvider.swift */,
 				21667B7F2D4A25B2009AAA76 /* RatingRenderer.swift */,
+				A5CE96162D6D23CE00D177C1 /* AvatarLoader.swift */,
+				A5CE96182D6D3BFB00D177C1 /* ImageCacheManager.swift */,
 				216668752D48F39E009AAA76 /* Cells */,
 			);
 			path = Reviews;
@@ -272,8 +278,10 @@
 				21B8416B2D47BFA10085DAA2 /* Reviews.swift in Sources */,
 				21B82E302D47B0640085DAA2 /* ReviewsViewController.swift in Sources */,
 				2166A0F42D4A5B25009AAA76 /* ReviewsView.swift in Sources */,
+				A5CE96192D6D3C0F00D177C1 /* ImageCacheManager.swift in Sources */,
 				216668732D48E89A009AAA76 /* Colors.swift in Sources */,
 				21B841712D47C5F00085DAA2 /* TableCellConfig.swift in Sources */,
+				A5CE96172D6D23D800D177C1 /* AvatarLoader.swift in Sources */,
 				21ED1F652D69D0340012D6F6 /* ReviewsScreenFactory.swift in Sources */,
 				2166686F2D48E23F009AAA76 /* Fonts.swift in Sources */,
 				21B82E312D47B0640085DAA2 /* AppDelegate.swift in Sources */,

@@ -6,49 +6,58 @@
             "last_name": "Петров",
             "rating": 5,
             "text": "Кроссовки хорошие. Удобные. Как по мне сшиты.",
-            "created": "1 час назад"
+            "created": "1 час назад",
+            "photos": ["IMG_0005", "IMG_0006", "IMG_0001"],
+            "avatar_url": "https://cphealthgroup.com/img/manualidades-y-tiempo-libre/869/c-mo-se-llaman-las-tortugas-ninja.jpg"
         },
         {
             "first_name": "Екатерина",
             "last_name": "Иванова",
             "rating": 3,
             "text": "Скользские ужасно.",
-            "created": "12 минут назад"
+            "created": "12 минут назад",
+            "avatar_url": "https://naked-science.ru/wp-content/uploads/2016/04/article_NwljQ1FVlKQ.jpg"
         },
         {
             "first_name": "Евгения",
             "last_name": "Петрова",
             "rating": 4,
             "text": "Прошла по снегу 30 метров, 5 раз упала. Спасибо мужу, поддерживал. Возврат, к сожалению.",
-            "created": "35 минут назад"
+            "created": "35 минут назад",
+            "avatar_url": "https://naked-science.ru/wp-content/uploads/2016/04/article_NwljQ1FVlKQ.jpg"
         },
         {
             "first_name": "Илья",
             "last_name": "Петров",
             "rating": 2,
             "text": "Понравилось отношение - несмотря на то, что заказ был выполнен не идеально, продавец был очень любезен и шёл... Прошла по снегу 30 метров, 5 раз упала. Спасибо мужу, поддерживал. Возврат, к сожалению.",
-            "created": "минуту назад"
+            "created": "минуту назад",
+            "avatar_url": "https://naked-science.ru/wp-content/uploads/2016/04/article_NwljQ1FVlKQ.jpg"
         },
         {
             "first_name": "Никита",
             "last_name": "Иванов",
             "rating": 5,
             "text": "Отлично выглядят, хоть и скользковатые...",
-            "created": "только что"
+            "created": "только что",
+            "photos": ["IMG_0002", "IMG_0004", "IMG_0001"],
+            "avatar_url": "https://cphealthgroup.com/img/manualidades-y-tiempo-libre/869/c-mo-se-llaman-las-tortugas-ninja.jpg"
         },
         {
             "first_name": "Олег",
             "last_name": "Николаев",
             "rating": 1,
             "text": "Ребёнок жалуется, что очень скользские. Пока шла до школы...",
-            "created": "15 минут назад"
+            "created": "15 минут назад",
+            "avatar_url": "https://naked-science.ru/wp-content/uploads/2016/04/article_NwljQ1FVlKQ.jpg"
         },
         {
             "first_name": "Николай",
             "last_name": "Петров",
             "rating": 2,
             "text": "",
-            "created": "вчера в 12:39"
+            "created": "вчера в 12:39",
+            "avatar_url": "https://as1.ftcdn.net/v2/jpg/03/91/19/22/1000_F_391192211_2w5pQpFV1aozYQhcIw3FqA35vuTxJKrB.jpg"
         },
 
 
@@ -57,49 +66,58 @@
             "last_name": "Петров",
             "rating": 5,
             "text": "Кроссовки хорошие. Удобные. Как по мне сшиты.",
-            "created": "1 час назад"
+            "created": "1 час назад",
+            "avatar_url": "https://as1.ftcdn.net/v2/jpg/03/91/19/22/1000_F_391192211_2w5pQpFV1aozYQhcIw3FqA35vuTxJKrB.jpg"
         },
         {
             "first_name": "Екатерина",
             "last_name": "Иванова",
             "rating": 3,
             "text": "Скользские ужасно.",
-            "created": "12 минут назад"
+            "created": "12 минут назад",
+            "avatar_url": "https://avatars.mds.yandex.net/i?id=1929e02113ae650ae7e9b48a01d365d0-4571317-images-thumbs&n=13"
         },
         {
             "first_name": "Евгения",
             "last_name": "Петрова",
             "rating": 4,
             "text": "Прошла по снегу 30 метров, 5 раз упала. Спасибо мужу, поддерживал. Возврат, к сожалению.",
-            "created": "35 минут назад"
+            "created": "35 минут назад",
+            "photos": ["IMG_0004", "IMG_0006"],
+            "avatar_url": "https://avatars.mds.yandex.net/i?id=1929e02113ae650ae7e9b48a01d365d0-4571317-images-thumbs&n=13"
         },
         {
             "first_name": "Илья",
             "last_name": "Петров",
             "rating": 2,
             "text": "Понравилось отношение - несмотря на то, что заказ был выполнен не идеально, продавец был очень любезен и шёл... Прошла по снегу 30 метров, 5 раз упала. Спасибо мужу, поддерживал. Возврат, к сожалению.",
-            "created": "минуту назад"
+            "created": "минуту назад",
+            "avatar_url": "https://as1.ftcdn.net/v2/jpg/03/91/19/22/1000_F_391192211_2w5pQpFV1aozYQhcIw3FqA35vuTxJKrB.jpg"
         },
         {
             "first_name": "Никита",
             "last_name": "Иванов",
             "rating": 5,
             "text": "Отлично выглядят, хоть и скользковатые...",
-            "created": "только что"
+            "created": "только что",
+            "avatar_url": "https://as1.ftcdn.net/v2/jpg/03/91/19/22/1000_F_391192211_2w5pQpFV1aozYQhcIw3FqA35vuTxJKrB.jpg"
         },
         {
             "first_name": "Олег",
             "last_name": "Николаев",
             "rating": 1,
             "text": "Ребёнок жалуется, что очень скользские. Пока шла до школы...",
-            "created": "15 минут назад"
+            "created": "15 минут назад",
+            "avatar_url": "https://as1.ftcdn.net/v2/jpg/03/91/19/22/1000_F_391192211_2w5pQpFV1aozYQhcIw3FqA35vuTxJKrB.jpg"
         },
         {
             "first_name": "Николай",
             "last_name": "Петров",
             "rating": 2,
             "text": "",
-            "created": "вчера в 12:39"
+            "created": "вчера в 12:39",
+            "photos": ["IMG_0002", "IMG_0001"],
+            "avatar_url": "https://cphealthgroup.com/img/manualidades-y-tiempo-libre/869/c-mo-se-llaman-las-tortugas-ninja.jpg"
         },
 
 
@@ -108,49 +126,57 @@
             "last_name": "Петров",
             "rating": 5,
             "text": "Кроссовки хорошие. Удобные. Как по мне сшиты.",
-            "created": "1 час назад"
+            "created": "1 час назад",
+            "avatar_url": "https://as1.ftcdn.net/v2/jpg/03/91/19/22/1000_F_391192211_2w5pQpFV1aozYQhcIw3FqA35vuTxJKrB.jpg"
         },
         {
             "first_name": "Екатерина",
             "last_name": "Иванова",
             "rating": 3,
             "text": "Скользские ужасно.",
-            "created": "12 минут назад"
+            "created": "12 минут назад",
+            "avatar_url": "https://avatars.mds.yandex.net/i?id=1929e02113ae650ae7e9b48a01d365d0-4571317-images-thumbs&n=13"
         },
         {
             "first_name": "Евгения",
             "last_name": "Петрова",
             "rating": 4,
             "text": "Прошла по снегу 30 метров, 5 раз упала. Спасибо мужу, поддерживал. Возврат, к сожалению.",
-            "created": "35 минут назад"
+            "created": "35 минут назад",
+            "avatar_url": "https://avatars.mds.yandex.net/i?id=1929e02113ae650ae7e9b48a01d365d0-4571317-images-thumbs&n=13"
         },
         {
             "first_name": "Илья",
             "last_name": "Петров",
             "rating": 2,
             "text": "Понравилось отношение - несмотря на то, что заказ был выполнен не идеально, продавец был очень любезен и шёл... Прошла по снегу 30 метров, 5 раз упала. Спасибо мужу, поддерживал. Возврат, к сожалению.",
-            "created": "минуту назад"
+            "created": "минуту назад",
+            "photos": ["IMG_0003"],
+            "avatar_url": "https://cphealthgroup.com/img/manualidades-y-tiempo-libre/869/c-mo-se-llaman-las-tortugas-ninja.jpg"
         },
         {
             "first_name": "Никита",
             "last_name": "Иванов",
             "rating": 5,
             "text": "Отлично выглядят, хоть и скользковатые...",
-            "created": "только что"
+            "created": "только что",
+            "avatar_url": "https://cphealthgroup.com/img/manualidades-y-tiempo-libre/869/c-mo-se-llaman-las-tortugas-ninja.jpg"
         },
         {
             "first_name": "Олег",
             "last_name": "Николаев",
             "rating": 1,
             "text": "Ребёнок жалуется, что очень скользские. Пока шла до школы...",
-            "created": "15 минут назад"
+            "created": "15 минут назад",
+            "avatar_url": "https://as1.ftcdn.net/v2/jpg/03/91/19/22/1000_F_391192211_2w5pQpFV1aozYQhcIw3FqA35vuTxJKrB.jpg"
         },
         {
             "first_name": "Николай",
             "last_name": "Петров",
             "rating": 2,
             "text": "",
-            "created": "вчера в 12:39"
+            "created": "вчера в 12:39",
+            "avatar_url": "https://as1.ftcdn.net/v2/jpg/03/91/19/22/1000_F_391192211_2w5pQpFV1aozYQhcIw3FqA35vuTxJKrB.jpg"
         },
     ]
 }

@@ -6,6 +6,7 @@ protocol TableCellConfig {
 
     /// Идентификатор для переиспользования ячейки (по умолчанию тип конфигурации).
     var reuseId: String { get }
+    var onTapShowMore: (UUID) -> Void { get }
 
     /// Метод для обновления текстов, изображений и другого содержимого ячейки.
     /// Вызывается из `cellForRowAt:` у `dataSource` таблицы.

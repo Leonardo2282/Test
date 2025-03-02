@@ -12,5 +12,6 @@ extension UIFont {
     static let created: UIFont = .systemFont(ofSize: 14.0)
     /// Шрифт, используемый для отображения общего количества отзывов.
     static let reviewCount: UIFont = .systemFont(ofSize: 15.0)
+    static let numberOfReviews: UIFont = .systemFont(ofSize: 14.0)
 
 }

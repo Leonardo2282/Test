@@ -8,5 +8,7 @@ extension UIColor {
     static let created: UIColor = .secondaryLabel
     /// Цвет текста, используемый для отображения общего количества отзывов.
     static let reviewCount: UIColor = .secondaryLabel
+    
+    static let numberOfReviews: UIColor = .secondaryLabel
 
 }
